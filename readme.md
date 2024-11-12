@@ -7,7 +7,7 @@
 ## installation
 
 ```
-git clone 
+git clone https://github.com/TukoG/fast.com
 cd fast.com
 pip install requirements.txt
 ```
