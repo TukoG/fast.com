@@ -9,7 +9,7 @@
 ```
 git clone https://github.com/TukoG/fast.com
 cd fast.com
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## usage
